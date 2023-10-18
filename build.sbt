@@ -11,3 +11,7 @@ libraryDependencies += guice
 
 libraryDependencies += "org.webjars.npm" % "bootstrap" % "5.3.2"
 libraryDependencies += "org.webjars.npm" % "bootstrap-icons" % "1.11.1"
+
+
+//import com.typesafe.sbt.jse.JsEngineImport.JsEngineKeys._
+//npmPreferSystemInstalledNpm := false
